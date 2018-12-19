@@ -7,6 +7,7 @@ me first project
 
 Идея заключается в написании простенького блокнота, содержащего основные функции (печать, сохранение в конкретную директорию)
 
-Использовал библиотеки sys и os(os.join, os.basename), QtGui, QtWidgets, QtCore, QtPrintSupport
+Использовал библиотеки sys и os(os.join, os.basename), QtGui, QtWidgets, QtCore, QtPrintSupport.
+Также с помощью os ставил иконки на инструменты
 
 Для запуска необходим PyQT5
