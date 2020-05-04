@@ -1,5 +1,5 @@
 # PyQT5_project
-me first project
+my first project
 
 Аналог блокнота
 
